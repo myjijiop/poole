@@ -6,7 +6,8 @@ title:               Poole
 tagline:             The Jekyll Butler
 url:                 http://getpoole.com
 paginate:            1
-baseurl:             "http://myjijiop.github.io/poole/"
+baseurl:             "https://myjijiop.github.io/poole/"
+
 
 # Assets
 #
