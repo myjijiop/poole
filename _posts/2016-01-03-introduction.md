@@ -4,7 +4,7 @@ title: Introduction
 ---
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://static.simpsonswiki.com/images/thumb/7/76/Hypnotoad.png/250px-Hypnotoad.png "Logo Title Text 1")
 
 
 -----
