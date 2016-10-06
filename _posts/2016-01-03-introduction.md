@@ -4,7 +4,7 @@ title: Introduction
 ---
 
 Inline-style: 
-![alt text](https://static.simpsonswiki.com/images/thumb/7/76/Hypnotoad.png/250px-Hypnotoad.png "Logo Title Text 1")
+![alt text](http://i.imgur.com/jOs6J2C.gif "Logo Title Text 1")
 
 
 -----
